@@ -236,9 +236,8 @@ Please follow naming conventions and add descriptive markdown for new files.
 
 # 📬 Contact & Credits
 
-**Maintained by:** Aesha Mangukiya  
-📧 Email: aeshamangukiya1@gmail.com  
-🔗 GitHub: https://github.com/aeshamangukiya  
+**Maintained by:** Archita Patel  
+📧 Email: qaverse.qa01@gmail.com  
 
 ---
 
