@@ -191,7 +191,7 @@ qa-testing-guide/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/aeshamangukiya/qa-testing-guide.git
+git clone https://github.com/qaverse01/test-strategy-framework/blob/main/README.md
 ```
 
 ## 2️⃣ Explore by Modules
